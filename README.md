@@ -1,16 +1,21 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# A Revolução da IA Generativa ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Nesta apresentação explicamos sobre a Revolução da IA, o que é a IA Generativa, suas aplicações no ambiente corporativo,
+seus benefícios para a produtividade, os desafios e o futuro da IA Generativa.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para a criação desta apresentação utilizamos o Gamma.app que nos auxiliou na construção do modelo de apresentação, 
+assim com ótimos insights.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para buscar conteúdo sobre o assunto, o qual trouxe tópicos importantes sobre o tema e explanação 
+sobre o conteúdo abordado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi magnífico. Uma bela apresentação profissional que exportei em forma de slides.
+https://gamma.app/docs/346c21u7r2ntsx4?following_id=3rihjbdpdxo8o9o&follow_on_start=true
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A IA generativa é um caminho sem volta e com expectativas incríveis. Com ela podemos criar qualquer tipo de conteúdo, 
+em qualquer tipo de formato de forma rápida e simples. 
